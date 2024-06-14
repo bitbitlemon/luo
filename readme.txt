@@ -1,0 +1,3 @@
+run.py为作品运行代码
+wbedeom.py为作品web版的演示版本
+在运行前需要将weight文件移动到该文件夹下
